@@ -1,0 +1,22 @@
+{
+  "name": "blog-notas",
+  "version": "1.0.0",
+  "description": "A proyect that simulates a note application using Node.JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FacuMa02/blog-note.git"
+  },
+  "author": "Facundo Maidana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FacuMa02/blog-note/issues"
+  },
+  "homepage": "https://github.com/FacuMa02/blog-note#readme",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  }
+}
